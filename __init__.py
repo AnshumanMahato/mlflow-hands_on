@@ -1,1 +1,1 @@
-from mlflow_hands_on import config  # noqa: F401
+from mlflow_hands_on import config  # noqa: F40
